@@ -1,4 +1,4 @@
-.mb-nav-item {
+.nav-item {
     padding-left: 1rem;
     padding-right: 1rem;
     padding-top: 2px;
@@ -10,7 +10,7 @@
     cursor: pointer !important;
 }
 
-.mb-nav-item.active {
+.nav-item.active {
   padding-top: 0px;
   color: black;
 }
